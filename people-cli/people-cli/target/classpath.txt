@@ -1,0 +1,1 @@
+/Users/robertfiero/.m2/repository/com/people/people-core/1.0.0-SNAPSHOT/people-core-1.0.0-SNAPSHOT.jar:/Users/robertfiero/.m2/repository/com/example/cli-framework/1.0.0/cli-framework-1.0.0.jar:/Users/robertfiero/.m2/repository/org/jline/jline/3.26.3/jline-3.26.3.jar
