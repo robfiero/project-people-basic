@@ -14,7 +14,7 @@ All told, this project from start to finish probably took me about 3 or 4 hours.
 
 ## Here is the output from my project metrics that tracks all the interesting stuff of what was created, with some information 
 
-Root: /<redacted>/Coding Projects/people/project-people-basic
+```Root: /<redacted>/Coding Projects/people/project-people-basic
 Profile: all
 Files counted: 43
 Total size: 95.1 KB
@@ -55,7 +55,7 @@ Top 10 longest files (by total lines):
         125 lines  people-cli/src/main/java/com/people/cli/commands/RelationshipCommand.java
         107 lines  people-cli/src/main/java/com/people/cli/SeedData.java
          77 lines  people-cli/src/main/java/com/people/cli/CliArgs.java
-         74 lines  people-core/src/main/java/com/people/repo/InMemoryEmploymentRepository.java
+         74 lines  people-core/src/main/java/com/people/repo/InMemoryEmploymentRepository.java```
 
 
 ## Original prompt to create this project and files:
