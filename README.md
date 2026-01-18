@@ -12,7 +12,7 @@ IDs are auto-generated on create; use `list` or `get` commands to see them.
 
 All told, this project from start to finish probably took me about 3 or 4 hours.  I unfortunately didn't track the exact time.
 
-## Here is the output from my project metrics that tracks all the interesting stuff of what was created, with some information 
+## Here is the output from my code metrics project.  I've found it interesting to see what code was generated as well as the amount of code to complete various projects. 
 
 ```Root: /<redacted>/Coding Projects/people/project-people-basic
 Profile: all
