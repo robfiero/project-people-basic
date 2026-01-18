@@ -55,8 +55,8 @@ Top 10 longest files (by total lines):
         125 lines  people-cli/src/main/java/com/people/cli/commands/RelationshipCommand.java
         107 lines  people-cli/src/main/java/com/people/cli/SeedData.java
          77 lines  people-cli/src/main/java/com/people/cli/CliArgs.java
-         74 lines  people-core/src/main/java/com/people/repo/InMemoryEmploymentRepository.java```
-
+         74 lines  people-core/src/main/java/com/people/repo/InMemoryEmploymentRepository.java
+```
 
 ## Original prompt to create this project and files:
 
