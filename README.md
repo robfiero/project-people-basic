@@ -2,13 +2,13 @@
 This project provides an in-memory people registry with a CLI frontend using `project-cli`.
 IDs are auto-generated on create; use `list` or `get` commands to see them.
 
-## The idea behind this project was to start seeing what the capabilities are of ChatGPT.  The prompt I originally gave in the Codex panel in my VS Code IDE to generate the files is below.  I needed to do some refinement after this, including:
+## The idea behind this project was to start seeing what the capabilities are of ChatGPT.  The prompt I originally gave in the Codex panel in my VS Code IDE to generate the files is below.  I needed to do some refinement after the initial code generation, including:
 
- - Working with the AI to get the code to build, run and test properly from the provided commands.  
- - Creating build, run, test, clean and populate scripts for convenience.
- - Fixing the display of list commands, which originally just output one long string with all the variables just concatenated together.
- - Addressing the get commands to output not only the object attributes in a readable fashion, but including tables of related objects below the basic attributes.
+ - Working with the AI to get the code to build, run and test properly.  No, the code was not perfect and didn't run on the first try, it had to be finegled for several iterations!
+ - Creating build, run, test, and clean scripts for convenience.
  - Adding the populate.sh so I didn't have to create items to display every time I ran the project.  (It is an in-memory project for the moment). This could use another iteration to add larger data sets and more geographically diverse information, but I'll add that capability in a future iteration of the project that will have the ability to persist data in files or a database.
+ - Fixing the display of list commands, which originally just output one long string with all the variables or all objects just concatenated together.
+ - Addressing the get commands to output not only the object attributes in a readable fashion, but including tables of related objects below the basic attributes.
 
 All told, this project from start to finish probably took me about 3 or 4 hours.  I unfortunately didn't track the exact time.
 
