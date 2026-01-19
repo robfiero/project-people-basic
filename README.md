@@ -6,6 +6,7 @@ IDs are auto-generated on create; use `list` or `get` commands to see them.
 
  - Working with the AI to get the code to build, run and test properly.  No, the code was not perfect and didn't run on the first try, it had to be finegled for several iterations!
  - Creating build, run, test, and clean scripts for convenience.
+ - Clarifying help commands to be less generic and to include the required and optional parameters for each command.
  - Adding the populate.sh so I didn't have to create items to display every time I ran the project.  (It is an in-memory project for the moment). This could use another iteration to add larger data sets and more geographically diverse information, but I'll add that capability in a future iteration of the project that will have the ability to persist data in files or a database.
  - Fixing the display of list commands, which originally just output one long string with all the variables or all objects just concatenated together.
  - Addressing the get commands to output not only the object attributes in a readable fashion, but including tables of related objects below the basic attributes.
